@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/suvaShree/static/js/main.2d1b10c9.chunk.js",
+    "main.js.map": "/suvaShree/static/js/main.2d1b10c9.chunk.js.map",
+    "runtime-main.js": "/suvaShree/static/js/runtime-main.54dfde10.js",
+    "runtime-main.js.map": "/suvaShree/static/js/runtime-main.54dfde10.js.map",
+    "static/js/2.91b15eab.chunk.js": "/suvaShree/static/js/2.91b15eab.chunk.js",
+    "static/js/2.91b15eab.chunk.js.map": "/suvaShree/static/js/2.91b15eab.chunk.js.map",
+    "index.html": "/suvaShree/index.html",
+    "static/js/2.91b15eab.chunk.js.LICENSE.txt": "/suvaShree/static/js/2.91b15eab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54dfde10.js",
+    "static/js/2.91b15eab.chunk.js",
+    "static/js/main.2d1b10c9.chunk.js"
+  ]
+}
